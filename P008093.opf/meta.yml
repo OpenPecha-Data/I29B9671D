@@ -5,11 +5,12 @@ source_metadata:
   title: དཔལ་ས་སྐྱའི་ཞལ་འདོན་ཕྱོགས་བསྒྲིགས།
   author: ''
   volumes:
-    2d5d54f5bb784655aa9f4f6f8431874b:
+    ec9a0a7824a74faa84d08053201c59f0:
       image_group_id: I1KG1838
-      title: ''
+      title: Volume 1 of dpal sa skya'i zhal 'don phyogs bsgrigs
       volume_number: 1
       total_pages: 362
+      base_file: v001.txt
 ebook_metadata:
   title: དཔལ་ས་སྐྱའི་ཞལ་འདོན་ཕྱོགས་བསྒྲིགས།
   author: ''
